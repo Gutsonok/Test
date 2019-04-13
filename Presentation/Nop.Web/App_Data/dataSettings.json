@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=USER-ПК\\SQLEXPRESS;Initial Catalog=nopCommerceTest;Integrated Security=True;Persist Security Info=False",
+  "RawDataSettings": {}
+}
