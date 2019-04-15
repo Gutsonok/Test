@@ -1,0 +1,10 @@
+﻿@model Nop.Plugin.Widgets.DiscountInfo.Models.PublicInfoModel
+@{
+    Layout = "";
+
+    Html.AddCssFileParts("~/Plugins/Widgets.DiscountInfo/Content/discountinfostyle.css");
+}
+
+<div class="discountinfo-wrapper">
+    @Model.Caption
+</div>
