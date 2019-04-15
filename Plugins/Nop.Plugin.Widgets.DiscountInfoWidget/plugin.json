@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Discount Info",
+  "SystemName": "Widgets.DiscountInfo",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.10" ],
+  "Author": "Arseniy Belyaev",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.DiscountInfo.dll",
+  "Description": "This plugin show info about discounts"
+}
